@@ -14,9 +14,11 @@ i used Eclipse IDE for Windows
 You can download:
 
 Java IDE for Windows, Linux or MacOSX from here: 
-https://www.eclipse.org/downloads/?
+
+https://www.eclipse.org/downloads/
 
 And JDK (Java SE Development Kit) from here: 
+
 http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
 Enjoy.
