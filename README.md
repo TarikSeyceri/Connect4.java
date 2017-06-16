@@ -21,4 +21,4 @@ And JDK (Java SE Development Kit) from here:
 
 http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
 
-Enjoy.
+Enjoy!
