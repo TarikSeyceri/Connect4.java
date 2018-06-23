@@ -1,3 +1,5 @@
+// By Tarik Seyceri - 2013
+
 import javax.swing.JFrame; // For Jframe
 import java.awt.Color; // For choosing background color for the Jframe
 import java.awt.Container; // For the body of Jframe 
