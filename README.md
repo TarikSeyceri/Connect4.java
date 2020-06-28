@@ -15,6 +15,6 @@ You can download:
 
 Java IDE for Windows, Linux or MacOSX from here: https://www.eclipse.org/downloads/
 
-And JDK (Java SE Development Kit) from here: http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html
+And JDK (Java SE Development Kit) from here: https://www.oracle.com/java/technologies/javase-downloads.html
 
 Enjoy!
