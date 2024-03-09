@@ -1,9 +1,9 @@
 # Connect4.java
-Connect4 v3.0, This project is a game developed in three versions, C, C++ &amp; Java SE, older to newer respect
+Connect4 v3, This project is a game developed in three versions, C, C++ &amp; Java SE, older to newer respect
 
 This version is written with Java SE Programming Language (With GUI) in 2013,
 
-![alt Preview](https://github.com/TarikSeyceri/Connect4.java/blob/master/Connect4.java.v3.0_preview.png?raw=true)
+![alt Preview](preview.png)
 
 it was for my fourth semester project in uni
 
